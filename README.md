@@ -45,6 +45,7 @@ Force powers are displayed on the Bottom left side of the screen along with thei
 
   # Gear sheet below! Please follow this if you wish to play on the server. 
   If the gear sheet isn't showing follow this link to the JvS rule page on our website
+
   <a id="JvS Rule Page">https://www.legendsofcranflakes.com/jvs-event-27th-29th</>
 
 
