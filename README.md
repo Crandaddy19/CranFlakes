@@ -44,4 +44,4 @@ Force powers are displayed on the Bottom left side of the screen along with thei
   <a id="CranFlakes Discord">https://discord.gg/EmtfuxnGP</>
 
   # Gear sheet below! Please follow this if you wish to play on the server.
-  ![GearSheet](https://cdn.discordapp.com/attachments/1166101137720610928/1166101587798794271/information_cropped.png?ex=654943bb&is=6536cebb&hm=505279d97f96d4ab2c1718fc0864edf366f89fd83997f427ccea2ef815cfb660&)
+  ![GearSheet](https://cdn.discordapp.com/attachments/1166101137720610928/1166145159906472028/SW_Gear_Sheet.jpg?ex=65496c50&is=6536f750&hm=1ec3ec5c7166df3b9916d5b449293478b4aa3e3e3b4d701aba612d0224b49dc7&)
