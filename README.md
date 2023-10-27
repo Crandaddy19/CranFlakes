@@ -1,5 +1,7 @@
 # Welcome to the **Legends of CranFlakes Star Wars Server!**
 
+### Gear Sheet is at the very bottom
+
 **On October 27th(Friday) to October 29th(Sunday)CranFlakes will be hosting a JvS old school rule type event. This means that there are 3 teams based off of gear provided in the Star Wars mod.**
 1. Team 1 Jedi
 2. Team 2 Mandalorians
