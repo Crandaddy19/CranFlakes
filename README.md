@@ -2,18 +2,23 @@
 
 ### Gear Sheet is at the very bottom
 
-**On October 27th(Friday) to October 29th(Sunday)CranFlakes will be hosting a JvS old school rule type event. This means that there are 3 teams based off of gear provided in the Star Wars mod.**
+**There are three teams. Preview the gear sheet to have a better understanding of team identifiers.**
+
 1. Team 1 Jedi
 2. Team 2 Mandalorians
 3. Team 3 Sith
 
 CranFlakes will no longer be running its original rule-set of (FFA with duel zones) There will still be duel zones if you don't wish to participate in the faction wars. Below you can find the full gear sheet we will be going off of for teams. Please follow these to stay in line with our rule-set.
 
-Teams go based off of the color of the lightsaber/weapon you are using. If you are not using a lightsaber/weapon displayed on the gear sheet and using a blaster instead then the teams are based off of the helmet piece you have equipped.
+Teams go based off of the color of the lightsaber/weapon you are using. If you are not using a lightsaber/weapon displayed on the gear sheet and using a blaster instead then the teams are based off of the helmet/face piece you have equipped.
 
 If you are having issues understanding the gear sheet and rule set for this event do not hesitate to ask one of our staff members for assistance!
 
 Duel room rules will still apply during this event.
+
+Force power keybinds are displayed on the loadout menu bottom left of the screen. You can see this upon joining the server or by hitting the 'esc' key or 'b' key. Force power is generated from Hits/chambers/Blocks
+
+# Highly suggest turning off Lens Flare at the very bottom of video settings. If you are experiencing a weird lightsaber glow effect.
 
 X + 1 on your keyboard to flourish inside of duel zone. This initiates the duel. Both parties need to flourish to duel.
 <a id="CranFlakes website">https://www.legendsofcranflakes.com/jvs-event-27th-29th</>
