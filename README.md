@@ -48,7 +48,7 @@ Force powers are displayed on the Bottom left side of the screen along with thei
   - Absolutely no racism or political views in game chat. (Will result in a mute)
 
   ### Link to the CranFlakes discord
-  <a id="CranFlakes Discord">https://discord.gg/EmtfuxnGP</>
+  <a id="CranFlakes Discord">https://discord.gg/RuUNfY8mX4</>
 
   # Gear sheet below! Please follow this if you wish to play on the server. 
   If the gear sheet isn't showing follow this link to the JvS rule page on our website
