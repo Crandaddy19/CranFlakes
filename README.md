@@ -6,7 +6,7 @@ Force power keybinds are displayed on the loadout menu bottom left of the screen
 # Highly suggest turning off Lens Flare at the very bottom of video settings. If you are experiencing a weird lightsaber glow effect.
 
 X + 1 on your keyboard to flourish inside of duel zone. This initiates the duel. Both parties need to flourish to duel.
-<a id="CranFlakes website">https://www.legendsofcranflakes.com/jvs-event-27th-29th</>
+<a id="CranFlakes website">https://www.legendsofcranflakes.com/home</>
 
 #### Map Specific rules.
 - Geonosis. Do not shoot from behind the big gate on geonosis or hide yourself in the towers next to it. You become unhittable which is an exploit. Duel zone can be found by typing (tp duel)
