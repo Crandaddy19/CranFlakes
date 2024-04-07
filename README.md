@@ -1,20 +1,5 @@
 # Welcome to the **Legends of CranFlakes Star Wars Server!**
 
-### Gear Sheet is at the very bottom
-
-**There are three teams. Preview the gear sheet to have a better understanding of team identifiers.**
-
-1. Team 1 Jedi
-2. Team 2 Mandalorians
-3. Team 3 Sith
-
-CranFlakes will no longer be running its original rule-set of (FFA with duel zones) There will still be duel zones if you don't wish to participate in the faction wars. Below you can find the full gear sheet we will be going off of for teams. Please follow these to stay in line with our rule-set.
-
-Teams go based off of the color of the lightsaber/weapon you are using. If you are not using a lightsaber/weapon displayed on the gear sheet and using a blaster instead then the teams are based off of the helmet/face piece you have equipped.
-
-If you are having issues understanding the gear sheet and rule set for this event do not hesitate to ask one of our staff members for assistance!
-
-Duel room rules will still apply during this event.
 
 Force power keybinds are displayed on the loadout menu bottom left of the screen. You can see this upon joining the server or by hitting the 'esc' key or 'b' key. Force power is generated from Hits/chambers/Blocks
 
@@ -22,10 +7,6 @@ Force power keybinds are displayed on the loadout menu bottom left of the screen
 
 X + 1 on your keyboard to flourish inside of duel zone. This initiates the duel. Both parties need to flourish to duel.
 <a id="CranFlakes website">https://www.legendsofcranflakes.com/jvs-event-27th-29th</>
-
-If you are wondering how to access some of the head pieces shown on the list. When you create a new mercenary, in the top right side of the screen you will see a (Customization) option. Here you can then select the (Faces) tab and here you will find all of the Star wars head assets.
-
-Force powers are displayed on the Bottom left side of the screen along with their corresponding keybindings. Force power is gained from Chambers/Hits/Blocks.
 
 #### Map Specific rules.
 - Geonosis. Do not shoot from behind the big gate on geonosis or hide yourself in the towers next to it. You become unhittable which is an exploit. Duel zone can be found by typing (tp duel)
@@ -49,11 +30,3 @@ Force powers are displayed on the Bottom left side of the screen along with thei
 
   ### Link to the CranFlakes discord
   <a id="CranFlakes Discord">https://discord.gg/RuUNfY8mX4</>
-
-  # Gear sheet below! Please follow this if you wish to play on the server. 
-  If the gear sheet isn't showing follow this link to the JvS rule page on our website
-
- <a id="JvS Rule Page">https://www.legendsofcranflakes.com/jvs-event-27th-29th</>
-
-![Gear Sheet](https://lh4.googleusercontent.com/CJrF-Hox2IvOBI3k89X-aa4LMTvjNUWZWsC4thgzOQT9xu87mDqDFlj2FLcetzbIlGXa3j5Kl9MSUrBNiFTaqcfGahUoQvx_aER4bPZ60AVe_P6-POfd3VILyVec4D4DOA=w1280)
-  
